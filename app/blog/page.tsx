@@ -40,7 +40,7 @@ export default function Blog() {
       <h1 className="pt-40 pb-4 ml-25 mr-20 text-5xl text-center text-teal-900">
         Welcome to DigitalBank blog!!
       </h1>
-      <p className="text-center ml-25">
+      <p className="text-center ml-25 mr-20">
         Explore the DigitalBank Blog for key fintech insights, updates, and tips to boost your business. <br /> From startups to established enterprises, find everything you need to enhance payment <br /> processing and embrace fintech innovation.
       </p>
       <section className="py-16 ml-25 mr-20">
