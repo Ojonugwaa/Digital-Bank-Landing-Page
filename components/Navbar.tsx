@@ -108,25 +108,25 @@ export default function NavBar() {
             Home
           </Link>
           <Link
-            href="#"
+            href="/about"
             className="text-gray-700 hover:text-teal-700 transition-colors duration-200"
           >
             About
           </Link>
           <Link
-            href="#"
+            href="/contact"
             className="text-gray-700 hover:text-teal-700 transition-colors duration-200"
           >
             Contact
           </Link>
           <Link
-            href="#"
+            href="/blog"
             className="text-gray-700 hover:text-teal-700 transition-colors duration-200"
           >
             Blog
           </Link>
           <Link
-            href="#"
+            href="/careers"
             className="text-gray-700 hover:text-teal-700 transition-colors duration-200"
           >
             Careers
